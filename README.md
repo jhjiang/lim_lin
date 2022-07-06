@@ -1,8 +1,17 @@
 
 ## 《Theory of Logical Information Model & Logical Information Network》
 
-> This is a paper on a whole new information model.
-Because of the strong logicality of this information model, it can make up for the common problems of interpretability and causal reasoning in the existing artificial intelligence systems.
+> Abstract:
+> 
+> In the 2010s, with the gradual maturity of connectionism tools such as deep learning algorithms and neural networks, another wave of artificial intelligence (AI) has been set off. However, it has been more than 6 years since AlphaGo made great achievements in 2016, and AI research has once again encountered a bottleneck on the way to further development. Due to its relying too much on the theoretical basis based on probability theory, connectionism has been unsatisfactory in the aspects of causal reasoning and interpretability, which has been criticized by many people as not being real intelligence.
+> 
+> After analyzing the logic basis of the mainstream schools such as connectionism and symbolism, this article combines the core elements of them and proposes a logical information model with strong logicality and practicability. The model and the large-scale information network based on it are expected to fundamentally improve the problems of causal reasoning and interpretability, and become a new theoretical breakthrough in constructing a new knowledge graph structure, and even moving towards artificial general intelligence (AGI).
+> 
+> However, the theoretical research of this model is still at an early stage. The current model design is only limited to pure text information, and the compatibility of other information sources, such as graphics and sound, remains to be explored. Meanwhile, it's also necessary to test the complex characteristics for the model in the huge data environment of logical information network. Meanwhile, it also awaits to test the complex characteristics for the model in the huge data environment of logical information network. In addition, for trustworthy AI that is required to realize strong logicality, or AGI suitable for different application scenarios, it is also necessary to further develop and verify its core "dynamic information algorithm" in the logical information network environment of massive data.
+> 
+> Although it is still far from the goal of AGI, and there are many problems to be solved, it is still worth trying to summarize and explore new routes when the existing AI routes encounter bottlenecks.
+> 
+> Keywords:  Artificial General Intelligence (AGI);    Logic;    Logical Information Model;    Logical Information Network
 
 It involves:
 ### Logic
@@ -131,8 +140,17 @@ Chapter 7 is the prospect of applications and some ideal application scenarios.
 
 # 《逻辑信息模型与逻辑信息网络》
 
-> 这是一篇关于全新的信息模型的论文。
-因为这种信息模型所具备的强逻辑性，使其可以很好地弥补现有人工智能体系中所普遍存在的可解释性和因果推理缺陷等问题。
+> 摘要：
+> 
+> 进入21世纪10年代，随着深度学习算法、神经网络等连接主义工具的日渐成熟，再一次掀起了人工智能的浪潮。然而，自2016年AlphaGo大放异彩至今已有6年有余，人工智能研究在更进一步的道路上再次遭遇了瓶颈。由于过于依赖基于概率论的理论基础，连接主义在因果推理、可解释性等方面的表现一直不尽如人意，为不少人所诟病还不是真正的智能。
+> 
+> 本文在剖析了连接主义以及符号主义等主流学派的逻辑学基础之后，糅合了其中的核心要素，提出具有极强逻辑性和可实施性的逻辑信息模型。该模型以及以此为基础构建起来的大规模信息网络有望从根本上改善因果推理及可解释性等方面的问题，并成为构建全新知识图结构、甚至是迈向通用人工智能的全新理论突破。
+> 
+> 不过目前该模型的理论研究尚处于较早期阶段，当前的模型设计仅仅限于纯文字信息，针对图形、声音等其它多种信息来源的兼容还有待探索。同时，该模型也有待于检验在逻辑信息网络的巨量数据环境中所表现出来的复杂特性。另外，对于亟待实现强逻辑性的可信人工智能，或是普适于不同应用场景的通用人工智能来说，也都需要进一步在海量数据的逻辑信息网络环境中来发展和验证其最核心的“动态信息算法”。
+> 
+> 虽然距离通用人工智能的目标还非常遥远，有诸多问题亟待解决，但是在现有人工智能路线遭遇瓶颈之时，总结探索新的路线依然值得尝试。
+> 
+> 关键词：  通用人工智能    逻辑学    逻辑信息模型    逻辑信息网络
 
 它涉及：
 ### 逻辑学
