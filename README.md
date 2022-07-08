@@ -1,4 +1,13 @@
 
+延伸阅读 / Extended Reading：
+
+[从逻辑信息模型，到逻辑信息网络，直至实现通用人工智能](https://zhuanlan.zhihu.com/p/497443483)
+
+[From Logical Information Model, to Logical Information Network, to the realization of Artificial General Intelligence (AGI)](https://www.reddit.com/user/JeffreyJiang/comments/upcloh/from_logical_information_model_to_logical/)
+
+---------
+
+
 ## 《Theory of Logical Information Model & Logical Information Network》
 
 > Abstract:
